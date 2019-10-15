@@ -31,9 +31,11 @@ To execute use
 [SBT](https://www.scala-sbt.org/) will be used to automate builds.
 
 Download the `tgz` package from SBT website and extract at a convinient location.
-Add `sbt/path` to system `PATH`. On Linux:
+Add `sbt/path` to system `PATH`.
 
-`PATH=$PATH:/path/to/sbt/bin/`
+On Linux:
+
+> `PATH=$PATH:/path/to/sbt/bin/`
 
 
 

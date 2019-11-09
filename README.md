@@ -2,6 +2,10 @@
 
 Learning [Scala](https://www.scala-lang.org/download/).
 
+# Download and install
+
+Go [here](https://www.scala-lang.org/download/) and download the appropriate version of scala. If you only want to install the `scala` language (without `IntelliJ` IDE or `sbt`), scroll to the bottom of this page and choose the version appropriate for your platform.
+
 # Compiling
 
 To compile a file, use  the following command
